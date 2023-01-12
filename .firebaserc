@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-final-c519e": {
+      "hosting": {
+        "int_projem": [
+          "angular-final-c519e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-final-c519e"
+  }
+}
